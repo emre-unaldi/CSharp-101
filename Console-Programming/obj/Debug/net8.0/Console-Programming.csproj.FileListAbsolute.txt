@@ -1,0 +1,14 @@
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\bin\Debug\net8.0\Console-Programming.exe
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\bin\Debug\net8.0\Console-Programming.deps.json
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\bin\Debug\net8.0\Console-Programming.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\bin\Debug\net8.0\Console-Programming.dll
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\bin\Debug\net8.0\Console-Programming.pdb
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\obj\Debug\net8.0\Console-Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\obj\Debug\net8.0\Console-Programming.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\obj\Debug\net8.0\Console-Programming.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\obj\Debug\net8.0\Console-Programming.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\obj\Debug\net8.0\Console-Programming.dll
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\obj\Debug\net8.0\refint\Console-Programming.dll
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\obj\Debug\net8.0\Console-Programming.pdb
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\obj\Debug\net8.0\Console-Programming.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101\Console-Programming\obj\Debug\net8.0\ref\Console-Programming.dll

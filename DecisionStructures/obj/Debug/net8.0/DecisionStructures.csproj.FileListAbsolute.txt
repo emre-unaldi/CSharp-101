@@ -1,0 +1,14 @@
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\bin\Debug\net8.0\DecisionStructures.exe
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\bin\Debug\net8.0\DecisionStructures.deps.json
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\bin\Debug\net8.0\DecisionStructures.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\bin\Debug\net8.0\DecisionStructures.dll
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\bin\Debug\net8.0\DecisionStructures.pdb
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\obj\Debug\net8.0\DecisionStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\obj\Debug\net8.0\DecisionStructures.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\obj\Debug\net8.0\DecisionStructures.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\obj\Debug\net8.0\DecisionStructures.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\obj\Debug\net8.0\DecisionStructures.dll
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\obj\Debug\net8.0\refint\DecisionStructures.dll
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\obj\Debug\net8.0\DecisionStructures.pdb
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\obj\Debug\net8.0\DecisionStructures.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101\DecisionStructures\obj\Debug\net8.0\ref\DecisionStructures.dll

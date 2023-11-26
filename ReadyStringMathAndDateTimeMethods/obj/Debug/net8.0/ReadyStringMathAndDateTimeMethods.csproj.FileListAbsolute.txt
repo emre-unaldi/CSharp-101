@@ -1,0 +1,14 @@
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\bin\Debug\net8.0\ReadyStringMathAndDateTimeMethods.exe
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\bin\Debug\net8.0\ReadyStringMathAndDateTimeMethods.deps.json
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\bin\Debug\net8.0\ReadyStringMathAndDateTimeMethods.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\bin\Debug\net8.0\ReadyStringMathAndDateTimeMethods.dll
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\bin\Debug\net8.0\ReadyStringMathAndDateTimeMethods.pdb
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\obj\Debug\net8.0\ReadyStringMathAndDateTimeMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\obj\Debug\net8.0\ReadyStringMathAndDateTimeMethods.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\obj\Debug\net8.0\ReadyStringMathAndDateTimeMethods.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\obj\Debug\net8.0\ReadyStringMathAndDateTimeMethods.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\obj\Debug\net8.0\ReadyStringMathAndDateTimeMethods.dll
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\obj\Debug\net8.0\refint\ReadyStringMathAndDateTimeMethods.dll
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\obj\Debug\net8.0\ReadyStringMathAndDateTimeMethods.pdb
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\obj\Debug\net8.0\ReadyStringMathAndDateTimeMethods.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101\ReadyStringMathAndDateTimeMethods\obj\Debug\net8.0\ref\ReadyStringMathAndDateTimeMethods.dll

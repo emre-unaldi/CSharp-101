@@ -1,0 +1,14 @@
+C:\Users\emree\Desktop\C#\C# 101\Classes\bin\Debug\net8.0\Classes.exe
+C:\Users\emree\Desktop\C#\C# 101\Classes\bin\Debug\net8.0\Classes.deps.json
+C:\Users\emree\Desktop\C#\C# 101\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101\Classes\bin\Debug\net8.0\Classes.dll
+C:\Users\emree\Desktop\C#\C# 101\Classes\bin\Debug\net8.0\Classes.pdb
+C:\Users\emree\Desktop\C#\C# 101\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101\Classes\obj\Debug\net8.0\Classes.dll
+C:\Users\emree\Desktop\C#\C# 101\Classes\obj\Debug\net8.0\refint\Classes.dll
+C:\Users\emree\Desktop\C#\C# 101\Classes\obj\Debug\net8.0\Classes.pdb
+C:\Users\emree\Desktop\C#\C# 101\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101\Classes\obj\Debug\net8.0\ref\Classes.dll
